@@ -236,6 +236,6 @@ segment/aac_he_v2_48k/00000113.m4s
 segment/aac_he_v2_48k/00000114.m4s
 #EXTINF:1.000000,
 segment/aac_he_v2_48k/00000115.m4s
-#EXTINF:1.000000,
+#EXTINF:0.875000,
 segment/aac_he_v2_48k/00000116.m4s
 #EXT-X-ENDLIST

@@ -236,6 +236,6 @@ segment/mp3_48k/00000113.m4s
 segment/mp3_48k/00000114.m4s
 #EXTINF:1.000000,
 segment/mp3_48k/00000115.m4s
-#EXTINF:1.000000,
+#EXTINF:0.875000,
 segment/mp3_48k/00000116.m4s
 #EXT-X-ENDLIST
